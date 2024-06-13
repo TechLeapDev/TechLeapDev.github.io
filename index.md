@@ -4,6 +4,8 @@ layout: default
 
 ![Aderson Oliveira](./assets/images/aderson.jpg "Aderson Oliveira")
 
+Hi, I'm Aderson Oliveira, a Full-Stack Developer specializing in React and Node.js.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another a page](./another-page.html).

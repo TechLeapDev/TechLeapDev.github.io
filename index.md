@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Aderson Oliveira](./assets/images/aderson.jpg "Aderson Oliveira")
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another a page](./another-page.html).

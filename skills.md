@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Skills
-description: Skills Page
 ---
 
-## Welcome to the Skills Page
+## My Technical Skills
 
-_yay_
+- **Languages:** JavaScript, HTML, CSS, SQL  
+- **Frameworks/Libraries:** React, Node.js, express.js  
+- **Tools:** Git, npm, Webpack, Babel  
+- **Databases:** MongoDB, MySQL  
+- **Concepts:** RESTful API Development, Agile Methodologies, Responsive Design  
 
 [back](./)
